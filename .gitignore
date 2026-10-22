@@ -1,0 +1,12 @@
+.*
+*.db
+*.log
+*.pyc
+*.sqlite3
+**/__pycache__/
+__pycache__/
+.venv/
+.env
+!.github/
+!.gitignore
+!.dockerignore
